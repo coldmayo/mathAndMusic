@@ -1,3 +1,5 @@
+from pysine import sine
+
 # Plays Twinkle Twinkle Little star using the notes from the chromatic scale created in the makingScales.py file
 
 def twinkleTwinkle(notes):
